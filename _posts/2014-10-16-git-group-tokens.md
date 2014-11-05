@@ -1,6 +1,6 @@
 ---
 layout: page
-title: User group tokens in git branch names for easier workflows
+title: Use group tokens in git branch names for easier workflows
 ---
 
 When naming git branches, use a group token with a slash after it. This provides a hierarchy to the git branches. and lets you group branches together. This also tells you more about the branch (like for e.g. what part of workflow it is in). While the tokens can be anything which you or your team choses, it would be prudent to keep them short yet clearly distinguish one token from another. 
