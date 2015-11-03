@@ -2,7 +2,7 @@
 layout : post
 title : Embedding page specific js in a jekyll blog.
 custom_js : 
-- customJsTest.js
+- customJsTest
 ---
 
 This is a post to just test out this [tutorial](http://mattgemmell.com/page-specific-assets-with-jekyll/) about embedding custom js in a jekyll blog. 
